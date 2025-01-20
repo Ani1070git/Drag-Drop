@@ -15,3 +15,5 @@ CSS: Styling and layout of the drag-and-drop interface.
 
 JavaScript: Handling the drag-and-drop interactions.
 
+# Live Demo
+Click here to see the live demo of the project : [here](https://ani1070git.github.io/Drag-Drop/)
